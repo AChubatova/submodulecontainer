@@ -1,0 +1,4 @@
+[submodule "submodule-reference"]
+	path = submodule-reference
+	url = https://github.com/AChubatova/submodule-reference
+	branch = .
